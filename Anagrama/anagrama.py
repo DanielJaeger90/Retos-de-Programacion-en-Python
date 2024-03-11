@@ -1,6 +1,9 @@
 # Ejercicio 2 ¿Es un anagrama?
-# Autor: Daniel Iturralde
+
+# Autor: Daniel Jaeger
+
 # Fecha: 2024/03/11
+
 # Escribe una función que reciba dos palabras (String) y retorne
 # verdadero o falso (Bool) según sean o no anagramas.
 # - Un Anagrama consiste en formar una palabra reordenando TODAS las letras de otra palabra inicial.

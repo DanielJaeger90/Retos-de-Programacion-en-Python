@@ -1,5 +1,7 @@
 # Ejercicio FizzFuzz
-# Autor: Daniel Iturralde
+
+# Autor: Daniel Jaeger
+
 # Fecha: 2024/03/11
 
 #Variable

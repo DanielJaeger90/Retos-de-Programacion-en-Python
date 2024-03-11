@@ -1,5 +1,7 @@
 # Ejercio 4
-# Autor: Daniel Iturralde
+
+# Autor: Daniel Jaeger
+
 # Fecha: 2024/03/11
 
 # Escribe un programa:

@@ -1,6 +1,9 @@
 # Ejercicio 3 Fibonacci
-# Autor: Daniel Iturralde
+
+# Autor: Daniel Jaeger
+
 # Fecha: 2024/03/11
+
 '''
 /*
  * Escribe un programa que imprima los 50 primeros números de la sucesión

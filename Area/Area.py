@@ -1,6 +1,6 @@
 # Ejercicio 5 Area de un polígono
 
-# Autor: Daniel Iturralde
+# Autor: Daniel Jaeger
 
 # Fecha: 2024/03/11
 
