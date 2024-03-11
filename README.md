@@ -1,4 +1,4 @@
-Aqué se guardan los Retos de Programació de la página web de https://retosdeprogramacion.com/
+Aquí se guardan los Retos de Programació de la página web de https://retosdeprogramacion.com/
 
 Las Soluciones están en Python ya que es mi lenguaje de programación favorito.
 
