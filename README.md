@@ -62,3 +62,13 @@ Las Soluciones están en Python ya que es mi lenguaje de programación favorito.
  * sin usar funciones propias del lenguaje que lo hagan de forma automática.
  * - Si le pasamos "Hola mundo" nos retornaría "odnum aloH"
  */
+
+ 8º Contando Palabras
+ /*
+ * Crea un programa que cuente cuantas veces se repite cada palabra
+ * y que muestre el recuento final de todas ellas.
+ * - Los signos de puntuación no forman parte de la palabra.
+ * - Una palabra es la misma aunque aparezca en mayúsculas y minúsculas.
+ * - No se pueden utilizar funciones propias del lenguaje que
+ *   lo resuelvan automáticamente.
+ */
